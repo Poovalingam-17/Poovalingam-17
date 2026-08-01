@@ -160,7 +160,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-24&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-24&theme=github-dark"/>
 
 </p>
 
@@ -170,7 +170,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Poovalingam-24&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Poovalingam-24&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -180,7 +180,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/poovalingam/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -188,7 +188,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/Poovalingam_M/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
