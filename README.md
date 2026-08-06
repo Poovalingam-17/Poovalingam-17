@@ -8,16 +8,16 @@ Java Full Stack Developer | Spring Boot | React.js | Problem Solver
 </p>
 
 <p align="center">
-<a href="https://github.com/Poovalingam-24">
-<img src="https://komarev.com/ghpvc/?username=Poovalingam-24&label=Profile+Views&color=0e75b6&style=flat"/>
+<a href="https://github.com/Poovalingam-17">
+<img src="https://komarev.com/ghpvc/?username=Poovalingam-17&label=Profile+Views&color=0e75b6&style=flat"/>
 </a>
 
-<a href="https://github.com/Poovalingam-24?tab=followers">
-<img src="https://img.shields.io/github/followers/Poovalingam-24?label=Followers&style=social"/>
+<a href="https://github.com/Poovalingam-17?tab=followers">
+<img src="https://img.shields.io/github/followers/Poovalingam-17?label=Followers&style=social"/>
 </a>
 
-<a href="https://github.com/Poovalingam-24">
-<img src="https://img.shields.io/github/stars/Poovalingam-24?affiliations=OWNER&style=social"/>
+<a href="https://github.com/Poovalingam-17">
+<img src="https://img.shields.io/github/stars/Poovalingam-17?affiliations=OWNER&style=social"/>
 </a>
 </p>
 
