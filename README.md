@@ -121,16 +121,8 @@ A personal portfolio showcasing my projects, skills, and journey as a full stack
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-17&theme=redical&bg_color=0D1117&color=F87171&line=F87171&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-17&theme=radical&bg_color=0D1117&color=F87171&line=F87171&point=ffffff"/>
 </div>
-
-<br/>
-
-## 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poovalingam-17&theme=radical&no-frame=true&margin-w=15&row=1"/>
-</p>
 
 <br/>
 
