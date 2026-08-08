@@ -1,201 +1,153 @@
-<h1 align="center">Hi 👋, I'm Poovalingam M</h1>
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | React.js | Problem Solver
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Blockchain+Application+Developer;Always+Learning+New+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0BC5EA,100:6366F1&height=220&section=header&text=Poovalingam%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=58&descSize=18"/>
 
-<p align="center">
-<a href="https://github.com/Poovalingam-17">
-<img src="https://komarev.com/ghpvc/?username=Poovalingam-17&label=Profile+Views&color=0e75b6&style=flat"/>
-</a>
-
-<a href="https://github.com/Poovalingam-17?tab=followers">
-<img src="https://img.shields.io/github/followers/Poovalingam-17?label=Followers&style=social"/>
-</a>
-
-<a href="https://github.com/Poovalingam-17">
-<img src="https://img.shields.io/github/stars/Poovalingam-17?affiliations=OWNER&style=social"/>
-</a>
-</p>
-
----
-
-# 💫 About Me
-
-🎓 Final Year B.E. Computer Science Engineering Student
-
-💻 Passionate Java Full Stack Developer
-
-🌱 Currently learning
-
-- Spring Security
-- Microservices
-- Docker
-- System Design
-
-🚀 Interested in
-
-- Full Stack Development
-- Backend Engineering
-- Blockchain Applications
-- AI-powered Web Applications
-
-📫 Email
-
-**poovalingam.dev@gmail.com**
-
----
-
-# 🚀 Tech Stack
-
-## Programming Languages
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Blockchain+Application+Developer;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+  <a href="https://www.linkedin.com/in/poovalingam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:poovalingam.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Poovalingam_M/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://poovalingam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-## Frontend
+<img src="https://komarev.com/ghpvc/?username=Poovalingam-17&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Poovalingam-17?label=Followers&style=for-the-badge&color=0BC5EA&labelColor=111111"/>
+<img src="https://img.shields.io/github/stars/Poovalingam-17?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=111111"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite"/>
-</p>
+</div>
 
-## Backend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-</p>
+## 💫 About Me
 
-## Database
+```java
+public class Poovalingam extends Developer {
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+    private String role        = "Java Full Stack Developer";
+    private String education   = "Final Year B.E. Computer Science Engineering";
+    private String[] currentlyLearning = {"Spring Security", "Microservices", "Docker", "System Design"};
+    private String[] interests = {"Full Stack Development", "Backend Engineering", "Blockchain", "AI-powered Web Apps"};
+    private final String contact = "poovalingam.dev@gmail.com";
 
-## Tools
+    public static void main(String[] args) {
+        Poovalingam me = new Poovalingam();
+        System.out.println("Hi, I'm " + me.role + " 👋");
+        me.buildSomethingGreat();
+    }
+}
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven"/>
-</p>
+<br/>
 
----
+## 🚀 Tech Arsenal
 
-# 💼 Featured Projects
+**Languages**
 
-## 🔗 Blockchain Certificate Verification System
+<p align="center"><img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark"/></p>
 
-✔ SHA-256 Certificate Verification
+**Frontend**
 
-✔ Blockchain Authentication
+<p align="center"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite&theme=dark"/></p>
 
-✔ QR Code Verification
+**Backend**
 
-✔ Email Notifications
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark"/></p>
 
-✔ PDF Certificate Generation
+**Database**
 
-**Tech Stack**
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark"/></p>
 
-Spring Boot • React • MySQL
+**Tools**
 
----
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven&theme=dark"/></p>
 
-## 🌾 FarmChainX
+<br/>
 
-AI Powered Agricultural Traceability Platform
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header"/>
 
-### Features
+## 💼 Featured Projects
 
-- QR Code Tracking
-- Farmer Dashboard
-- Product Verification
-- AI-based Crop Information
-- Supply Chain Transparency
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**
+### 🔗 Blockchain Certificate Verification
+SHA-256 certificate hashing with blockchain-backed authentication, QR code verification, automated email notifications, and PDF certificate generation.
 
-Java • Spring Boot • React.js • MySQL
+`Spring Boot` `React` `MySQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎓 Student Result Management System
+### 🌾 FarmChainX
+AI-powered agricultural traceability platform with QR product tracking, a farmer dashboard, and full supply chain transparency.
 
-Features
+`Java` `Spring Boot` `React.js` `MySQL`
 
-- SMS Result Delivery
-- Student Record Management
-- Automated Verification
-- Admin Dashboard
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Tech Stack
+### 🎓 Student Result Management
+SMS-based result delivery, centralized student record management, automated verification, and an admin dashboard.
 
-React • Spring Boot • MySQL
+`React` `Spring Boot` `MySQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Statistics
+### 🌐 Portfolio Website
+A personal portfolio showcasing my projects, skills, and journey as a full stack developer.
+
+[**View Live →**](https://poovalingam.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Poovalingam-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Poovalingam-17&theme=radical&hide_border=true&background=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-17&theme=redical&bg_color=0D1117&color=F87171&line=F87171&point=ffffff"/>
+</div>
+
+<br/>
+
+## 🏆 Trophy Case
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Poovalingam-24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-24&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Poovalingam-17&theme=radical&no-frame=true&margin-w=15&row=1"/>
 </p>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Poovalingam-24&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/Poovalingam-17/Poovalingam-17/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+> ⚠️ This one needs a one-time GitHub Action set up in your `Poovalingam-17` profile repo before it will generate — it won't show until that's done. Say the word and I'll give you the exact workflow file to add.
 
-# 📈 Contribution Graph
+<br/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poovalingam-24&theme=github-dark"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0BC5EA&height=150&section=footer"/>
 
-</p>
+**⭐ Thanks for stopping by — let's connect and build something great! ⭐**
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Poovalingam-24&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/poovalingam/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:poovalingam.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/Poovalingam_M/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+</div>
