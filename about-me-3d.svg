@@ -1,0 +1,97 @@
+<svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0BC5EA"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0BC5EA" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0BC5EA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="floorBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="cardShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="18" dy="26" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="640" height="600" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="760" fill="url(#bgGrad)"/>
+  <circle cx="120" cy="120" r="140" fill="url(#glowCyan)" filter="url(#softBlur)"/>
+  <circle cx="800" cy="640" r="160" fill="url(#glowPurple)" filter="url(#softBlur)"/>
+
+  <!-- floating decorative braces -->
+  <text x="70" y="620" font-family="Georgia, serif" font-size="80" fill="#6366F1" opacity="0.18">{</text>
+  <text x="790" y="200" font-family="Georgia, serif" font-size="80" fill="#0BC5EA" opacity="0.18">}</text>
+
+  <!-- floor shadow -->
+  <ellipse cx="450" cy="732" rx="300" ry="26" fill="#000000" opacity="0.45" filter="url(#floorBlur)"/>
+
+  <!-- tilted 3D card group -->
+  <g transform="translate(130,70) rotate(-4 320 300)">
+
+    <!-- stacked depth layers -->
+    <rect x="24" y="24" width="640" height="600" rx="18" fill="#312e81" opacity="0.28"/>
+    <rect x="19" y="19" width="640" height="600" rx="18" fill="#312e81" opacity="0.40"/>
+    <rect x="14" y="14" width="640" height="600" rx="18" fill="#312e81" opacity="0.55"/>
+    <rect x="9"  y="9"  width="640" height="600" rx="18" fill="#312e81" opacity="0.70"/>
+    <rect x="4"  y="4"  width="640" height="600" rx="18" fill="#312e81" opacity="0.85"/>
+
+    <!-- main card -->
+    <rect x="0" y="0" width="640" height="600" rx="18" fill="#1e1e2e"
+          stroke="url(#borderGrad)" stroke-width="2" filter="url(#cardShadow)"/>
+
+    <g clip-path="url(#cardClip)">
+      <!-- title bar -->
+      <rect x="0" y="0" width="640" height="44" fill="#282a3a"/>
+      <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+      <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+      <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+      <text x="90" y="27" font-family="Consolas, Menlo, monospace" font-size="13" fill="#a5b4fc">☕ Poovalingam.java</text>
+
+      <!-- code -->
+      <text xml:space="preserve" x="24" y="70" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#f8f8f2">
+        <tspan x="24" dy="0"><tspan fill="#ff79c6">public</tspan> <tspan fill="#ff79c6">class</tspan> <tspan fill="#8be9fd">Poovalingam</tspan> <tspan fill="#ff79c6">extends</tspan> <tspan fill="#8be9fd">Developer</tspan> {</tspan>
+        <tspan x="24" dy="20"></tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">private</tspan> <tspan fill="#8be9fd">String</tspan> role = <tspan fill="#f1fa8c">"Java Full Stack Developer"</tspan>;</tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">private</tspan> <tspan fill="#8be9fd">String</tspan> education =</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"Final Year B.E. Computer Science Engineering"</tspan>;</tspan>
+        <tspan x="24" dy="20"></tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">private</tspan> <tspan fill="#8be9fd">String[]</tspan> currentlyLearning = {</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"Spring Security"</tspan>, <tspan fill="#f1fa8c">"Microservices"</tspan>,</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"Docker"</tspan>, <tspan fill="#f1fa8c">"System Design"</tspan></tspan>
+        <tspan x="24" dy="20">    };</tspan>
+        <tspan x="24" dy="20"></tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">private</tspan> <tspan fill="#8be9fd">String[]</tspan> interests = {</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"Full Stack Development"</tspan>, <tspan fill="#f1fa8c">"Backend Engineering"</tspan>,</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"Blockchain"</tspan>, <tspan fill="#f1fa8c">"AI-powered Web Apps"</tspan></tspan>
+        <tspan x="24" dy="20">    };</tspan>
+        <tspan x="24" dy="20"></tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">private</tspan> <tspan fill="#ff79c6">final</tspan> <tspan fill="#8be9fd">String</tspan> contact =</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#f1fa8c">"poovalingam.dev@gmail.com"</tspan>;</tspan>
+        <tspan x="24" dy="20"></tspan>
+        <tspan x="24" dy="20">    <tspan fill="#ff79c6">public</tspan> <tspan fill="#ff79c6">static</tspan> <tspan fill="#ff79c6">void</tspan> <tspan fill="#50fa7b">main</tspan>(<tspan fill="#8be9fd">String[]</tspan> args) {</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#8be9fd">Poovalingam</tspan> me = <tspan fill="#ff79c6">new</tspan> <tspan fill="#8be9fd">Poovalingam</tspan>();</tspan>
+        <tspan x="24" dy="20">        <tspan fill="#8be9fd">System</tspan>.out.<tspan fill="#50fa7b">println</tspan>(<tspan fill="#f1fa8c">"Hi, I'm "</tspan> + me.role + <tspan fill="#f1fa8c">" 👋"</tspan>);</tspan>
+        <tspan x="24" dy="20">        me.<tspan fill="#50fa7b">buildSomethingGreat</tspan>();</tspan>
+        <tspan x="24" dy="20">    }</tspan>
+        <tspan x="24" dy="20">}</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
