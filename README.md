@@ -10,11 +10,6 @@
   <a href="https://leetcode.com/u/Poovalingam_M/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://poovalingam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Poovalingam-17&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Poovalingam-17?label=Followers&style=for-the-badge&color=0BC5EA&labelColor=111111"/>
-<img src="https://img.shields.io/github/stars/Poovalingam-17?affiliations=OWNER&style=for-the-badge&color=F59E0B&labelColor=111111"/>
-
 </div>
 
 <br/>
