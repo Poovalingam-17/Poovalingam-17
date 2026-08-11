@@ -94,11 +94,6 @@ A personal portfolio showcasing my projects, skills, and journey as a full stack
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Poovalingam-17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovalingam-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=Poovalingam-17&theme=radical&hide_border=true&background=0D1117"/>
 </div>
 
